@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @luckdeluxe
+- 👀 I’m interested in backend development projects and machine learning.
+- 🌱 I’m currently learning backend with Python 🐍 and Django framework. 
+- 💞️ I’m looking to collaborate on open-source.
+- 📫 How to reach me in luckdeveloper@hotmail.com and LinkedIn (linkedin.com/in/lucas-sanchez-/)
