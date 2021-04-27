@@ -13,7 +13,8 @@ I am Lucas. I am from Argentina 📍 and currently doing my career in a self-tau
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 ## 💻 Projects
-* [Petgram - pet social network)]
+* [Petgram - Pet social network)](https://github.com/luckdeluxe/Petgram)
+* [RideShareApp - Application rideshare](https://github.com/luckdeluxe/RideShareApp)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -31,6 +32,7 @@ I am Lucas. I am from Argentina 📍 and currently doing my career in a self-tau
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
