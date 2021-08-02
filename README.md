@@ -1,6 +1,6 @@
 <h2> Hello welcome <<i>coders</i>></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-sanchez-/)](https://www.linkedin.com/in/lucas-sanchez-/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-sanchez-/)](https://www.linkedin.com/in/lucas-sanchez-/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luckdeveloper@hotmail.com)](mailto:luckdeveloper@hotmail.com)
 
 <h3> 💻 About Me </h3>
