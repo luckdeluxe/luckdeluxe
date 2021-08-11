@@ -14,15 +14,16 @@ I am Lucas. I am from Argentina 📍 and currently doing my career in a self-tau
 
 ## 💻 Projects
 * [Petgram - Pet social network](https://github.com/luckdeluxe/Petgram)
-* [RideShareApp - Application rideshare](https://github.com/luckdeluxe/RideShareApp)
-* [PortfolioWeb](https://github.com/luckdeluxe/PortfolioWeb) - [Deploy release 1.0](https://project-portfolioweb.herokuapp.com/)
 * [Hardware - Store online](https://github.com/luckdeluxe/hardware-store)
+* [PortfolioWeb](https://github.com/luckdeluxe/PortfolioWeb) - [Deploy release 1.0](https://project-portfolioweb.herokuapp.com/)
+* [RideShareApp - Application rideshare](https://github.com/luckdeluxe/RideShareApp)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
