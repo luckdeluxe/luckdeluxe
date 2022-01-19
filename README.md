@@ -9,7 +9,7 @@ I am Lucas. I am from Argentina 📍 and currently doing my career in a self-tau
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a back-end web developer.
-- 🌱 &nbsp; Enthusiast in iOS developer and Artificial Intelligence .
+- 🌱 &nbsp; Enthusiast in iOS developer and Informatic security.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 ## 💻 Projects
