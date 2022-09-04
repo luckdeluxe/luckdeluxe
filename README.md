@@ -5,10 +5,10 @@
 
 <h3> 💻 About Me </h3>
 
-I am Lucas. I am from Argentina 📍 and currently doing my career in a self-taught way💻 .I love to do backend development and open to learning new technologies.
+My name is Lucas. I am from Argentina 📍 and currently doing my career in a self-taught way💻 .I love to do backend development and open to learning new technologies.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a back-end web developer.
+- 💼 &nbsp; I am working as an application security engineer.
 - 🌱 &nbsp; Enthusiast in iOS developer and Informatic security.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
